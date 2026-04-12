@@ -6,9 +6,9 @@ Built for developers who need reliable cross-platform audio without the dependen
 
 ## What's here
 
-**[decibri](https://github.com/decibri/decibri)** — the core audio library. Native bindings on four platforms, browser support via conditional exports, Silero VAD, sub-millisecond frame capture. One `npm install decibri`, zero system dependencies.
+**[decibri](https://github.com/decibri/decibri)** - the core audio library. Native bindings on four platforms, browser support via conditional exports, Silero VAD, sub-millisecond frame capture. One `npm install decibri`, zero system dependencies.
 
-**[decibri-cli](https://github.com/decibri/decibri-cli)** — cross-platform audio CLI. Capture, play, and list devices from any shell. One statically-linked binary, zero runtime dependencies. Install via `npm install -g decibri-cli` or `cargo install decibri-cli`.
+**[decibri-cli](https://github.com/decibri/decibri-cli)** - cross-platform audio CLI. Capture, play, and list devices from any shell. One statically-linked binary, zero runtime dependencies. Install via `npm install -g decibri-cli` or `cargo install decibri-cli`.
 
 ## Links
 
