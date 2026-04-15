@@ -7,6 +7,7 @@ Built for developers who want to ship Voice AI applications, not wrestle audio d
 ## What's here
 
 **[decibri](https://github.com/decibri/decibri)** - the core audio library. Native bindings on four platforms, browser support via conditional exports, Silero VAD, sub-millisecond frame capture. Install via `npm install decibri` (Node.js/browser) or `cargo add decibri` (Rust). Zero system dependencies.
+
 **[decibri-cli](https://github.com/decibri/decibri-cli)** - cross-platform audio CLI built on decibri. Capture, play, and list devices from any shell. One statically-linked binary, zero runtime dependencies. Install via `npm install -g decibri-cli` or `cargo install decibri-cli`.
 
 ## What's next
