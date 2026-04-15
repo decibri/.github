@@ -1,15 +1,18 @@
 # Decibri
 
-Developer infrastructure for Voice AI. Native audio capture, playback, and device management across Node.js, browsers, Rust, and the command line.
+Premium Voice AI infrastructure. Native audio capture, playback, and device management across Node.js, browsers, Rust, and the command line.
 
-Built for developers who need reliable cross-platform audio without the dependency hell.
+Built for developers who want to ship Voice AI applications, not wrestle audio drivers.
 
 ## What's here
 
-**[decibri](https://github.com/decibri/decibri)** - the core audio library. Native bindings on four platforms, browser support via conditional exports, Silero VAD, sub-millisecond frame capture. One `npm install decibri`, zero system dependencies.
+**[decibri](https://github.com/decibri/decibri)** - the core audio library. Native bindings on four platforms, browser support via conditional exports, Silero VAD, sub-millisecond frame capture. Install via `npm install decibri` (Node.js/browser) or `cargo add decibri` (Rust). Zero system dependencies.
+**[decibri-cli](https://github.com/decibri/decibri-cli)** - cross-platform audio CLI built on decibri. Capture, play, and list devices from any shell. One statically-linked binary, zero runtime dependencies. Install via `npm install -g decibri-cli` or `cargo install decibri-cli`.
 
-**[decibri-cli](https://github.com/decibri/decibri-cli)** - cross-platform audio CLI. Capture, play, and list devices from any shell. One statically-linked binary, zero runtime dependencies. Install via `npm install -g decibri-cli` or `cargo install decibri-cli`.
+## What's next
+
+Python support, MCP server for local voice agents, and ONNX-based VAD models are in development. See [decibri.com](https://decibri.com) for the latest.
 
 ## Links
 
-[decibri.com](https://decibri.com) · [npm](https://www.npmjs.com/org/decibri) · [crates.io](https://crates.io/users/decibri-maintainers)
+[decibri.com](https://decibri.com) · [npm](https://www.npmjs.com/org/decibri) · [crates.io](https://crates.io/search?q=decibri)
