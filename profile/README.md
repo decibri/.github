@@ -12,7 +12,7 @@ Built for developers who want to ship Voice AI applications, not wrestle audio d
 
 ## What's next
 
-Python support, MCP server for local voice agents, and ONNX-based VAD models are in development. See [decibri.com](https://decibri.com) for the latest.
+Python support and ONNX-based VAD models are in development. See [decibri.com](https://decibri.com) for the latest.
 
 ## Links
 
