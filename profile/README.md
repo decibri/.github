@@ -1,6 +1,6 @@
 # Decibri
 
-Premium Voice AI infrastructure. Native audio capture, playback, and device management across Node.js, browsers, Rust, and the command line.
+Premium Voice AI infrastructure. Native audio capture, playback, and device management across Python, Node.js, browsers, Rust, and the command line.
 
 Built for developers who want to ship Voice AI applications, not wrestle audio drivers.
 
@@ -18,4 +18,4 @@ Python support and ONNX-based VAD models are in development. See [decibri.com](h
 
 ## Links
 
-[decibri.com](https://decibri.com) · [npm](https://www.npmjs.com/org/decibri) · [crates.io](https://crates.io/search?q=decibri)
+[decibri.com](https://decibri.com) · [Decibri Docs](https://decibri.com/docs/) · [PyPi](https://pypi.org/project/decibri/) · [npm](https://www.npmjs.com/org/decibri) · [crates.io](https://crates.io/crates/decibri) · [docs.rs](https://docs.rs/decibri/latest/decibri/)
