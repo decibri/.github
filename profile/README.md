@@ -1,8 +1,10 @@
 # Decibri
 
-Premium Voice AI infrastructure. Native audio capture, playback, and device management across Python, Node.js, browsers, Rust, and the command line.
+The unified infrastructure layer for AI Agents and Voice AI.
 
-Built for developers who want to ship Voice AI applications, not wrestle audio drivers.
+Build real-time voice applications through a unified API for audio, speech, and AI integration across Python, Node.js, Rust, browsers, and the command line.
+
+From microphone to model to speaker, Decibri provides the infrastructure powering modern Voice AI.
 
 ## What's here
 
@@ -14,7 +16,11 @@ Built for developers who want to ship Voice AI applications, not wrestle audio d
 
 ## What's next
 
-Python support and ONNX-based VAD models are in development. See [decibri.com](https://decibri.com) for the latest.
+ACE Process Buffer
+
+Acoustic Echo Cancellation
+
+See [decibri.com](https://decibri.com) for the latest.
 
 ## Links
 
