@@ -36,8 +36,10 @@ Give your AI agents the ability to listen. Microphone capture and speech-to-text
 
 ## What's next
 
-- ACE Process Buffer
-- Acoustic Echo Cancellation (AEC)
+- Windows ARM64 Support
+- Audio Converter
+- ACE Process Buffer - COMPLETED
+- Acoustic Echo Cancellation (AEC) - COMPLETED
 
 See our [website](https://decibri.com) for the latest.
 
