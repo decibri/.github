@@ -37,6 +37,7 @@ Give your AI agents the ability to listen. Microphone capture and speech-to-text
 ## What's next
 
 - Windows ARM64 Support
+- Multichannel - COMPLETED
 - Audio Decoder - COMPLETED
 - ACE Process Buffer - COMPLETED
 - Acoustic Echo Cancellation (AEC) - COMPLETED
