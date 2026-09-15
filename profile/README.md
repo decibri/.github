@@ -53,4 +53,5 @@ See our [website](https://decibri.com) for the latest.
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=FAD200)](https://pypi.org/project/decibri/)&nbsp;&nbsp;
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/org/decibri)&nbsp;&nbsp;
 [![crates.io](https://img.shields.io/badge/crates.io-000000?style=flat&logo=rust&logoColor=white)](https://crates.io/crates/decibri)&nbsp;&nbsp;
-[![docs.rs](https://img.shields.io/badge/docs.rs-000000?style=flat&logo=rust&logoColor=white)](https://docs.rs/decibri/latest/decibri/)
+[![docs.rs](https://img.shields.io/badge/docs.rs-000000?style=flat&logo=rust&logoColor=white)](https://docs.rs/decibri/latest/decibri/)&nbsp;&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Decibri/)
