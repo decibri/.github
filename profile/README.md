@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://decibri.com">
     <img
-      src="https://github.com/user-attachments/assets/f63b05ba-fa24-40d2-b6c2-14f2c608784f"
+      src="https://github.com/user-attachments/assets/2ce99480-b918-4990-b2c9-873d356cad13"
       alt="Decibri GitHub banner"
       width="100%">
   </a>
