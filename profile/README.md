@@ -7,15 +7,21 @@
   </a>
 </p>
 
-# Decibri
+# Powering Interactive AI
 
-**The unified platform for real-time Voice AI and AI agents.**
+### The unified platform for real-time Voice AI and AI agents
 
 Build real-time voice applications with one integrated stack. Decibri brings together audio capture, processing, streaming, orchestration, AI models, and integration across Python, Node.js, Rust and browsers.
 
 From microphone to model to speaker, Decibri provides the foundation for building intelligent, voice-enabled applications.
 
-<br />
+
+
+[![Website](https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://decibri.com) &nbsp;&nbsp;
+[![Documentation](https://img.shields.io/badge/Docs-Read-607D8B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://decibri.com/docs/) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAyIDAgNC4yNjggMi4zNyA0LjI2OCA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0ek02Ljc4MiAyMC40NTJIMy44OVY5aDIuODkydjExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NSAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNS43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc1IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&logoWidth=20&logoColor=white)](https://www.linkedin.com/company/decibri/) &nbsp;&nbsp;
+[![X](https://img.shields.io/badge/-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=303030)](https://x.com/decibriai)
+
 
 ## Explore Decibri
 
@@ -54,6 +60,7 @@ Explore the core capabilities powering real-time audio, speech processing and AI
 
 <br />
 
+<!--
 ## Key Links
 
 [![Decibri Website](https://img.shields.io/badge/decibri.com-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://decibri.com) &nbsp;&nbsp;
@@ -68,3 +75,13 @@ Explore the core capabilities powering real-time audio, speech processing and AI
 [![Decibri on Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Decibri/) &nbsp;&nbsp;
 [![Decibri on X](https://img.shields.io/badge/%40decibriai-000000?style=flat&logo=x&logoColor=white)](https://x.com/decibriai) &nbsp;&nbsp;
 [![Decibri on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/company/decibri/)
+-->
+
+
+## Resources & Community
+
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=FAD200)](https://pypi.org/project/decibri/)&nbsp;&nbsp;
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/org/decibri)&nbsp;&nbsp;
+[![crates.io](https://img.shields.io/badge/crates.io-000000?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/decibri)&nbsp;&nbsp;
+[![docs.rs](https://img.shields.io/badge/docs.rs-303030?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/decibri/latest/decibri/)&nbsp;&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Decibri/)
